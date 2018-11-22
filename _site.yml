@@ -1,0 +1,17 @@
+name: "P8104_final_project"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Data Dashboard"
+      href: flexdashboard.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<abhishek.ajay@columbia.edu>
+    - icon: fa-github fa-lg
+      href: https://github.com/dewyork/P8105_final_project
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    theme: journal
+    css: style.css

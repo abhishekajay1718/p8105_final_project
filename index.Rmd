@@ -1,0 +1,27 @@
+---
+title: "Factors associated with response time of emergency medical service(EMS) in New York City"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    css: style.css
+---
+
+Youn Kyeong Chang (yc3242), Pengxuan Chen(pc2853), Anusorn Thanataveerat (at2710), Apoorva Srinivasan (as5697), Abhishek Ajay (aa4266)
+
+#Overview
+
+#Background and Objective
+
+#Methods
+
+##Data Source
+
+##Statistical Analyses
+
+##Results
+
+#Conclusions 
+
+#Github
+
