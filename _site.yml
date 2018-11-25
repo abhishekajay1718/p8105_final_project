@@ -3,6 +3,8 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: "Report"
+      href: tentative_report.html
     - text: "Data Dashboard"
       href: flexdashboard.html
     - text: "About"
