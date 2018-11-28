@@ -7,6 +7,10 @@ navbar:
       href: tentative_report.html
     - text: "Data Dashboard"
       href: flexdashboard.html
+    - text: "EDA"
+      href: EDA.html
+    - text: "Statistical Analysis"
+      href: statistical_analysis.html
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
